@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is D474-E2E9
+
+ Directory of C:\Users\mridley\Desktop\My Project
+
+09/17/2018  07:25 PM    <DIR>          .
+09/17/2018  07:25 PM    <DIR>          ..
+09/17/2018  07:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  415,755,837,440 bytes free
